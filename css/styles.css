@@ -1,0 +1,34 @@
+
+body {
+  background-color: #105B63;
+
+}
+
+h1 {
+  color: #FFD34E;
+  text-align: center;
+  font-family: helvetica;
+
+
+}
+
+h2 {
+  font-style: inherit;
+  text-align: center;
+  font-family: helvetica;
+  color: #FFFAD5;
+}
+
+h3 {
+  color: #DB9E36
+
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
