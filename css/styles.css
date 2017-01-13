@@ -26,9 +26,15 @@ h3 {
 
 p {
   font-family: sans-serif;
+  color:#FFFAD5
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  color: #FFFAD5
+}
+
+ol {
+  color:#FFFAD5
 }
